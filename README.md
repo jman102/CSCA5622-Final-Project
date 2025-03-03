@@ -6,8 +6,8 @@ CSCA 5622 Intro to Machine Learning: Supervised Learning - Final Project
 
 
 #### Dataset Sources
-[](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
+https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
 
-[](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_012_health_indicators_BRFSS2015.csv)
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_012_health_indicators_BRFSS2015.csv
 
-[](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system)
+https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system
